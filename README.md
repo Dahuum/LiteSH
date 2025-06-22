@@ -11,7 +11,7 @@
 
 This project is about creating a shell called **Minishell** based on [bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell) with a reduced set of rules.
 
-🥷 **Aymano**
+🥷 **Aymanino**
 
 * Github: [@Ayman](https://github.com/ayman-aa/)
 
